@@ -1,0 +1,94 @@
+﻿  Base.cpp
+  Camera.cpp
+  Collision_Cube.cpp
+  Collision.cpp
+  Collision_CubeSphere.cpp
+  Collision_Sphere.cpp
+  Component.cpp
+  Component_Manager.cpp
+  Frame_Manager.cpp
+  Frustum.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Key_Manager.cpp
+  Layer.cpp
+  Management.cpp
+  Object_Manager.cpp
+  Observer.cpp
+  Observer_Manager.cpp
+  PipeLine.cpp
+  Collision_Raycast.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Renderer.cpp
+  Scene.cpp
+  Scene_Manager.cpp
+  Sound_Manager.cpp
+  Texture.cpp
+  Time_Manager.cpp
+  Transform.cpp
+  VIBuffer.cpp
+  VIBuffer_CubeTexture.cpp
+  VIBuffer_RectColor.cpp
+  VIBuffer_RectTexture.cpp
+  VIBuffer_TerrainColor.cpp
+  VIBuffer_TerrainTexture.cpp
+  VIBuffer_TriColor.cpp
+  ViBuffer_TriCubeTexture.cpp
+  코드를 생성하고 있습니다...
+     ../Bin/Engine.lib 라이브러리 및 ../Bin/Engine.exp 개체를 생성하고 있습니다.
+  Engine.vcxproj -> C:\Users\pig39\OneDrive\바탕 화면\sr-hue-sr_3d_hue-d13760f7442c\sr-hue-sr_3d_hue-d13760f7442c\Engine\Bin\Engine.dll
+  '//'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
+  .\Engine\Bin\Engine.dll
+  1개 파일이 복사되었습니다.
+  .\Engine\Bin\Engine.lib
+  1개 파일이 복사되었습니다.
+  .\Engine\Headers\Base.h
+  .\Engine\Headers\Camera.h
+  .\Engine\Headers\Collision.h
+  .\Engine\Headers\Collision_Cube.h
+  .\Engine\Headers\Collision_CubeSphere.h
+  .\Engine\Headers\Collision_Raycast.h
+  .\Engine\Headers\Collision_Sphere.h
+  .\Engine\Headers\Component.h
+  .\Engine\Headers\Component_Manager.h
+  .\Engine\Headers\Engine_Define.h
+  .\Engine\Headers\Engine_Enum.h
+  .\Engine\Headers\Engine_Function.h
+  .\Engine\Headers\Engine_Include.h
+  .\Engine\Headers\Engine_Struct.h
+  .\Engine\Headers\fmod.h
+  .\Engine\Headers\fmod_codec.h
+  .\Engine\Headers\fmod_dsp.h
+  .\Engine\Headers\fmod_errors.h
+  .\Engine\Headers\fmod_memoryinfo.h
+  .\Engine\Headers\fmod_output.h
+  .\Engine\Headers\Frame_Manager.h
+  .\Engine\Headers\Frustum.h
+  .\Engine\Headers\GameObject.h
+  .\Engine\Headers\Graphic_Device.h
+  .\Engine\Headers\Gravity.h
+  .\Engine\Headers\Key_Manager.h
+  .\Engine\Headers\Layer.h
+  .\Engine\Headers\Management.h
+  .\Engine\Headers\Object_Manager.h
+  .\Engine\Headers\Observer.h
+  .\Engine\Headers\Observer_Manager.h
+  .\Engine\Headers\PipeLine.h
+  .\Engine\Headers\Renderer.h
+  .\Engine\Headers\Scene.h
+  .\Engine\Headers\Scene_Manager.h
+  .\Engine\Headers\Sound_Manager.h
+  .\Engine\Headers\Texture.h
+  .\Engine\Headers\Time_Manager.h
+  .\Engine\Headers\Transform.h
+  .\Engine\Headers\VIBuffer.h
+  .\Engine\Headers\VIBuffer_CubeTexture.h
+  .\Engine\Headers\VIBuffer_RectColor.h
+  .\Engine\Headers\VIBuffer_RectTexture.h
+  .\Engine\Headers\VIBuffer_TerrainColor.h
+  .\Engine\Headers\VIBuffer_TerrainTexture.h
+  .\Engine\Headers\VIBuffer_TriColor.h
+  .\Engine\Headers\ViBuffer_TriCubeTexture.h
+  47개 파일이 복사되었습니다.

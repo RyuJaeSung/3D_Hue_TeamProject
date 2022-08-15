@@ -1,0 +1,41 @@
+﻿  Base.cpp
+  Camera.cpp
+  Collision_Cube.cpp
+  Collision.cpp
+  Collision_CubeSphere.cpp
+  Collision_Sphere.cpp
+  Component.cpp
+  Component_Manager.cpp
+  Frame_Manager.cpp
+  Frustum.cpp
+  GameObject.cpp
+  Graphic_Device.cpp
+  Key_Manager.cpp
+  Layer.cpp
+  Management.cpp
+  Object_Manager.cpp
+  Observer.cpp
+  Observer_Manager.cpp
+  PipeLine.cpp
+  Collision_Raycast.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Renderer.cpp
+  Scene.cpp
+  Scene_Manager.cpp
+  Sound_Manager.cpp
+C:\Users\pig39\OneDrive\바탕 화면\sr-hue-sr_3d_hue-d13760f7442c\sr-hue-sr_3d_hue-d13760f7442c\Engine\Codes\Sound_Manager.cpp(76,14): warning C4244: '초기화 중': 'intptr_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\pig39\OneDrive\바탕 화면\sr-hue-sr_3d_hue-d13760f7442c\sr-hue-sr_3d_hue-d13760f7442c\Engine\Codes\Sound_Manager.cpp(96,37): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+  Time_Manager.cpp
+  Transform.cpp
+  VIBuffer.cpp
+  VIBuffer_CubeTexture.cpp
+  VIBuffer_RectColor.cpp
+  VIBuffer_RectTexture.cpp
+  VIBuffer_TerrainColor.cpp
+  VIBuffer_TerrainTexture.cpp
+  VIBuffer_TriColor.cpp
+  ViBuffer_TriCubeTexture.cpp
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'fmodex_vc.lib' 파일을 열 수 없습니다.

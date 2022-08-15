@@ -1,0 +1,29 @@
+#pragma once
+
+#ifndef __CLIENT_DEFINE_H__
+
+#include "Management.h"
+//USING(Client)
+USING(Engine)
+#include "client_enum.h"
+
+#define WINCX 1920
+#define WINCY 1080
+
+extern HWND g_hWnd;
+
+#define ELASTICITY 50
+
+#define RGBA_BLACK		D3DCOLOR_RGBA(0, 0, 0, 255)
+#define RGBA_RED		D3DCOLOR_RGBA(246, 19, 28, 255)
+#define RGBA_ORANGE		D3DCOLOR_RGBA(255, 140, 27, 255)
+#define RGBA_YELLOW		D3DCOLOR_RGBA(249, 196, 22, 255)
+#define RGBA_GREEN		D3DCOLOR_RGBA(145, 238, 0, 255)
+#define RGBA_BLUE		D3DCOLOR_RGBA(18, 179, 221, 255)
+#define RGBA_NAVY		D3DCOLOR_RGBA(43, 55, 251, 255)
+#define RGBA_PURPLE		D3DCOLOR_RGBA(168, 22, 251, 255)
+#define RGBA_PINK		D3DCOLOR_RGBA(239, 68, 170, 255)
+#define RGBA_WHITE		D3DCOLOR_RGBA(255, 255, 255, 255)
+
+#define __CLIENT_DEFINE_H__
+#endif
